@@ -7,7 +7,7 @@ O objetivo foi praticar **layout responsivo**, **alinhamento de elementos** e or
 ---
 
 ## Preview do Projeto
-![Preview da Página](assets/images/preview.PNG)
+![Preview da Página](assets/images/preview-youtube.PNG)
 
 👉 **Deploy Online:** [Acesse aqui](https://trilha-css-desafio-02-youtube-page.vercel.app/)
 
