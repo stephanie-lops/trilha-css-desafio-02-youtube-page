@@ -39,3 +39,14 @@ O objetivo foi praticar **layout responsivo**, **alinhamento de elementos** e or
 1. Clone este repositório:
    ```bash
    git clone https://github.com/stephanie-lops/trilha-css-desafio-02-youtube-page.git
+
+2. Acesse a pasta do projeto:
+   ```bash
+   cd trilha-css-desafio-02-youtube-page
+
+3. Abra o arquivo index.html no navegador de sua preferência
+
+## Créditos
+
+Projeto desenvolvido no Bootcamp Santander 2025 - Front End (DIO)
+Autora: Stephanie Lopes
