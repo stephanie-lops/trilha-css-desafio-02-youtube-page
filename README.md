@@ -48,5 +48,5 @@ O objetivo foi praticar **layout responsivo**, **alinhamento de elementos** e or
 
 ## Créditos
 
-Projeto desenvolvido no Bootcamp Santander 2025 - Front End (DIO)
-Autora: Stephanie Lopes
+- Projeto desenvolvido no Bootcamp Santander 2025 - Front End (DIO)
+- Autora: Stephanie Lopes
