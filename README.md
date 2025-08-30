@@ -1,6 +1,41 @@
-# trilha-css-desafio-02-youtube-page
-Reprodução de uma página do Youtube com CSS colocando em prática todos os conceitos aprendidos, principalmente sobre Flexbox.
+# 🎬 Trilha CSS - Desafio 02: YouTube Page
 
-Na minha página mostra o vídeo "Focus now, fell proud later" que é uma playlist relaxante, que gosto de colocar como plano de fundo no meu dia-a-dia. Ao lado, playlists relacionadas recomendadas.
+Reprodução de uma página do **YouTube** com foco em **CSS e Flexbox**, desenvolvida como parte do **Bootcamp Santander 2025 - Front End (DIO)**.  
 
-Link deploy: https://trilha-css-desafio-02-youtube-page.vercel.app/
+O objetivo foi praticar **layout responsivo**, **alinhamento de elementos** e organização de conteúdo com **Flexbox**.
+
+---
+
+## 📸 Preview do Projeto
+![Preview da Página](assets/images/preview.png)
+
+👉 **Deploy Online:** [Acesse aqui](https://trilha-css-desafio-02-youtube-page.vercel.app/)
+
+---
+
+## 🎯 O que foi desenvolvido
+- Página com a reprodução de um vídeo no estilo YouTube.  
+- Uso de **Flexbox** para estruturar o layout.  
+- Conteúdo lateral com **playlists relacionadas**.  
+- Personalização com vídeo favorito:  
+  > *"Focus now, feel proud later"*, uma playlist relaxante que uso como plano de fundo no meu dia-a-dia. 🎧
+
+---
+
+## 🚀 Tecnologias Utilizadas
+- HTML5  
+- CSS3 (com foco em **Flexbox**)  
+
+---
+
+## 📂 Estrutura do Repositório
+- `index.html` → Estrutura principal da página  
+- `assets/css/style.css` → Estilização com CSS  
+- `assets/images/` → Imagens e ícones do projeto  
+
+---
+
+## 🔧 Como Executar Localmente
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/stephanie-lops/trilha-css-desafio-02-youtube-page.git
